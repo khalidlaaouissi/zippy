@@ -1,4 +1,4 @@
-zippy
+#zippy
 
 This is a simple file extractor tool built with Tkinter in Python. It allows you to select a directory and extract files within that directory using the 7-Zip command-line tool.
 Prerequisites
